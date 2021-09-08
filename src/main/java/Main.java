@@ -61,7 +61,7 @@ public class Main {
     private static void lineNumber() {
 
         for (int i = 0; i < 5; i++) {
-            System.out.println("20 февраль");
+            System.out.println("20 февраля");
         }
 
     }
